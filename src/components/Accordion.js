@@ -25,5 +25,4 @@ const Accordion = ({ items }) => {
   return <div className="ui styled accordion">{renderedItems}</div>;
 };
 export default Accordion;
-//this active classname control whether or not
-//an individual item will expand or not
+
